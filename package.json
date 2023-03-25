@@ -1,0 +1,20 @@
+{
+  "name": "shelter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch shelter/pages/main/style.scss:shelter/pages/main/style.css shelter/pages/pets/style.scss:shelter/pages/pets/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/antonogonovskiy-JSFE2022Q1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/antonogonovskiy-JSFE2022Q1/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/antonogonovskiy-JSFE2022Q1#readme"
+}
